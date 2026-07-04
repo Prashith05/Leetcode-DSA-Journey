@@ -5,33 +5,29 @@ class Solution(object):
         :rtype: int
         """
         
+        
+
+
         # buy=prices[0]
-        # sell=0
-        # x=0
-        # y=0
+        # profit=0
 
-        # for i in range(len(prices)):
-        #     if buy > prices[i]:
-        #         buy = prices[i]
-        #         x = i
-        # for j in range(x, len(prices)):
-        #     if sell < prices[j]:
-        #         sell=prices[j]
-        #         y = j
-
-        # return prices[y]-prices[x]
+        # for price in prices:
+        #     if buy > price:
+        #         buy = price
+        #     profit = max(profit, price - buy)
+        # return profit
 
 
-        buy=prices[0]
-        profit=0
+
+        buy = prices[0]
+        profit = 0
 
         for price in prices:
-            if buy > price:
+            if price < buy:
                 buy = price
-            profit = max(profit, price - buy)
-        return profit
+            elif price - buy > profit:
+                profit = price - buy
 
-
-        
+        return profit        
 
             
