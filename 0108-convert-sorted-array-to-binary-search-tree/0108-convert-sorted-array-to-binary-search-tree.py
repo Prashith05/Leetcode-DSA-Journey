@@ -11,7 +11,7 @@ class Solution(object):
         :rtype: Optional[TreeNode]
         """
         if not nums:
-            return ""
+            return []
         
         def buildbinarytree(left,right):
             if left > right:
