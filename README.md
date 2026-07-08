@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0001-two-sum) |
+| [0133-clone-graph](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0217-contains-duplicate) |
 ## Two Pointers
@@ -78,4 +79,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0169-majority-element) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
