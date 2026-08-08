@@ -4,15 +4,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        if len(nums) == 1:
-            return nums[0]
-        
-        
-        for _ in range(len(nums)-1):
-            subarr=[]
+        n = len(nums)
 
-            for i in range(1,len(nums)):
-                subarr.append((nums[i]+nums[i-1])%10)
-            nums=subarr
+        while n > 1:
+            for i in range(n - 1):
+                nums[i] = (nums[i] + nums[i + 1]) % 10
+            n -= 1
 
         return nums[0]
