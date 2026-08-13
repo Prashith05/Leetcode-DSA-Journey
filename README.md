@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0278-first-bad-version](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0278-first-bad-version) |
 ## Binary Tree
 |  |
 | ------- |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0169-majority-element) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
