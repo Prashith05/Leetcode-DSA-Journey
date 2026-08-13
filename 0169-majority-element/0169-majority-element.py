@@ -4,9 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+
         count = 0
         candidate = None
-
         for num in nums:
             if count == 0:
                 candidate = num
@@ -17,4 +17,3 @@ class Solution(object):
                 count -= 1
 
         return candidate
-
