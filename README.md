@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0035-search-insert-position) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0088-merge-sorted-array) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0169-majority-element) |
