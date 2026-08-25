@@ -4,9 +4,15 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        nums.sort()
-        x=[]
-        for i in range(1,len(nums)):
-            if nums[i-1] == nums[i]:
-                x.append(nums[i])
-        return x
+    
+        result = []
+
+        for x in nums:
+            i = abs(x) - 1
+
+            if nums[i] < 0:
+                result.append(abs(x))
+            else:
+                nums[i] = -nums[i]
+
+        return result
