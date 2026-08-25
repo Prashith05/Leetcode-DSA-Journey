@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0997-find-the-town-judge) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0997-find-the-town-judge](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0997-find-the-town-judge) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
