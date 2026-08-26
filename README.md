@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0997-find-the-town-judge) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Binary Tree
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Counting
 |  |
 | ------- |
@@ -139,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0278-first-bad-version) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
