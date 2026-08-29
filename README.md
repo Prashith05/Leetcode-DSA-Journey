@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [0997-find-the-town-judge](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0997-find-the-town-judge) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0290-word-pattern) |
+| [0771-jewels-and-stones](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Trie
 |  |
