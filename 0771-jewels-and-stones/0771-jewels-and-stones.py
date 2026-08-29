@@ -5,8 +5,19 @@ class Solution(object):
         :type stones: str
         :rtype: int
         """
-        result = 0
+
+        jewels = set(jewels)
+        count = 0
+
         for stone in stones:
             if stone in jewels:
-                result += 1
-        return result
+                count += 1
+
+        return count
+
+
+        # result = 0
+        # for stone in stones:
+        #     if stone in jewels:
+        #         result += 1
+        # return result
