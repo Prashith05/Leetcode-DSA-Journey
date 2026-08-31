@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0997-find-the-town-judge) |
+| [1470-shuffle-the-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/1929-concatenation-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
