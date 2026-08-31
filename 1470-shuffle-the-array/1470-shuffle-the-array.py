@@ -5,11 +5,17 @@ class Solution(object):
         :type n: int
         :rtype: List[int]
         """
-        x = nums[:n]
-        y = nums[n:]
-        nums=[]
+        # x = nums[:n]
+        # y = nums[n:]
+        # nums=[]
+        # for i in range(n):
+        #     nums.extend((x[i],y[i]))
+        # return nums
+        
+        result=[]
         for i in range(n):
-            nums.extend((x[i],y[i]))
-        return nums
+            result.append(nums[i])
+            result.append(nums[i+n])
+        return result
 
         
