@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0290-word-pattern) |
 | [0771-jewels-and-stones](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0771-jewels-and-stones) |
@@ -169,4 +171,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
