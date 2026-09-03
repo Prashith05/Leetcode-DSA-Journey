@@ -4,12 +4,12 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        sub = 1
+        x = 1
         for i in range(1,len(nums)):
             if nums[i] != nums[i-1]:
-                nums[sub] = nums[i]
-                sub +=1
-        return sub
+                nums[x] = nums[i]
+                x +=1
+        return x
 
 
 
