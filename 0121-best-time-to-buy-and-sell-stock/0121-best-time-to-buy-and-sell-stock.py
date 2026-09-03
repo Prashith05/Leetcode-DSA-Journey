@@ -4,6 +4,14 @@ class Solution(object):
         :type prices: List[int]
         :rtype: int
         """
+        buy = prices[0]
+        profit = 0
+        for price in prices:
+            if buy > price:
+                buy = price
+            profit = max(profit,price-buy)
+
+
         
         
 
@@ -16,6 +24,13 @@ class Solution(object):
         #         buy = price
         #     profit = max(profit, price - buy)
         # return profit
+
+
+
+
+
+
+
 
 
 
