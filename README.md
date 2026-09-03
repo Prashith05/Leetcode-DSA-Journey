@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0189-rotate-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Sorting
 |  |
