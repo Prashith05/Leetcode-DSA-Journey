@@ -5,6 +5,14 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
+
+
+
+
+
+
+
+        
         seen = {}
         for i,num in enumerate(nums):
             key = target - num 
