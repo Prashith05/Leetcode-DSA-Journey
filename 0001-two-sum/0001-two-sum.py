@@ -18,6 +18,6 @@ class Solution(object):
             key = target - num 
 
             if key in seen:
-                return[seen[key],i]
+                return[i,seen[key]]
             seen[num]=i    
         
