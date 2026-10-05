@@ -6,15 +6,6 @@ class Solution(object):
         :rtype: List[int]
         """
 
-        seen ={}
-        for i,num in enumerate(nums):
-            key =  target - num
-            
-            if key in seen:
-                return [i,seen[key]]
-            
-            seen[num] =i
-
 
 
 
@@ -22,11 +13,11 @@ class Solution(object):
 
 
         
-        # seen = {}
-        # for i,num in enumerate(nums):
-        #     key = target - num 
+        seen = {}
+        for i,num in enumerate(nums):
+            key = target - num 
 
-        #     if key in seen:
-        #         return[i,seen[key]]
-        #     seen[num]=i    
+            if key in seen:
+                return[seen[key],i]
+            seen[num]=i    
         
