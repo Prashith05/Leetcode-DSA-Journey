@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0290-word-pattern) |
 | [0771-jewels-and-stones](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
