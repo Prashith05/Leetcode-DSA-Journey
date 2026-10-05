@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0290-word-pattern) |
+| [0409-longest-palindrome](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0771-jewels-and-stones) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0290-word-pattern) |
+| [0409-longest-palindrome](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Trie
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
