@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0485-max-consecutive-ones) |
+| [0566-reshape-the-matrix](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0997-find-the-town-judge) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0566-reshape-the-matrix) |
 | [1929-concatenation-of-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/1929-concatenation-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Combinatorics
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0409-longest-palindrome) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
