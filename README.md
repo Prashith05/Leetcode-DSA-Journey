@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## String Matching
