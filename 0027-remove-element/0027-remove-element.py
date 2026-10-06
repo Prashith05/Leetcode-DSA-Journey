@@ -5,7 +5,6 @@ class Solution(object):
         :type val: int
         :rtype: int
         """
-
         j=0
         nums.sort()
         for i in range(len(nums)):
@@ -13,4 +12,16 @@ class Solution(object):
                 nums[j] = nums[i]
                 j+=1
         return j
+
+
+
+        
+
+        # j=0
+        # nums.sort()
+        # for i in range(len(nums)):
+        #     if nums[i] != val:
+        #         nums[j] = nums[i]
+        #         j+=1
+        # return j
         
