@@ -5,6 +5,7 @@ class Solution(object):
         :type val: int
         :rtype: int
         """
+
         j=0
         nums.sort()
         for i in range(len(nums)):
