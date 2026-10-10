@@ -16,6 +16,13 @@ class Solution(object):
                 result += vals[s[i]]
 
         return result
+        # for i in range(len(s)):
+        #     if i + 1 < len(s) and vals[s[i]] < vals[s[i + 1]]:
+        #         result -= vals[s[i]]
+        #     else:
+        #         result += vals[s[i]]
+
+        # return result
 
 
 
