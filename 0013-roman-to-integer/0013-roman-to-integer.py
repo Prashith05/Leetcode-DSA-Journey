@@ -11,13 +11,21 @@ class Solution(object):
 
         for i in range(1,len(s)):
             if vals[s[i - 1]] < vals[s[i]]:
-                result = result + vals[s[i]] - vals[s[i-1]]*2
+                result += vals[s[i]] - vals[s[i-1]]*2
                 
             else:
                 result += vals[s[i]]
 
         return result
-        # for i in range(len(s)):
+
+
+        # vals = {'I': 1,'V': 5,'X': 10,'L': 50,'C': 100,'D': 500,'M': 1000}
+
+        # result = 0
+
+
+
+        # # for i in range(len(s)):
         #     if i + 1 < len(s) and vals[s[i]] < vals[s[i + 1]]:
         #         result -= vals[s[i]]
         #     else:
@@ -25,13 +33,4 @@ class Solution(object):
 
         # return result
 
-
-
-
-
-
-        # dic = {I:1,V:5,X:10,L:50,C:100,D:500,M:1000}
-        # holder =[]
-        # for x in s:
-        #     holder.append(dic[x])
         
