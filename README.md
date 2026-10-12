@@ -217,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0661-image-smoother) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
