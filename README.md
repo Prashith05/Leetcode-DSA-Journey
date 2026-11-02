@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Sorting
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
