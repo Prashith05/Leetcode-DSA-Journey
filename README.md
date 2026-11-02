@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Sorting
 |  |
