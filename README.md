@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0205-isomorphic-strings) |
@@ -238,4 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Prashith05/Leetcode-DSA-Journey/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
